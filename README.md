@@ -3,3 +3,5 @@
 - FastAPI 
 - Pydantic 
 - MongoDB
+
+https://shorturl.at/NFe7T
